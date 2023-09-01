@@ -4650,7 +4650,7 @@ input::placeholder {
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (max-width: 767px) {
   .header-area__desktop--default .header-info-area {
-    padding: 25px 0;
+    padding: 20px 0;
   }
 }
 .header-area__mobile {
@@ -5219,7 +5219,7 @@ input::placeholder {
 
 /* header info area */
 .header-info-area {
-  padding: 35px 0;
+  padding: 25px 0;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (max-width: 767px) {
   .header-info-area {
