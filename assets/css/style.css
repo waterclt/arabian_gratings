@@ -4902,10 +4902,10 @@ input::placeholder {
 }
 .header-navigation__nav nav > ul > li > a {
   display: block;
-  font-size: 13px;
+  font-size: 15px;
   color: #222;
   line-height: 1.26;
-  font-weight: 400;
+  font-weight: 600;
   padding: 46px 16px;
   position: relative;
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -6383,7 +6383,7 @@ a.scroll-top.show {
           animation-fill-mode: both;
 }
 .hero-slider__title {
-  font-size: 70px;
+  font-size: 60px;
   line-height: 1.2;
   color: #ffffff;
   margin-bottom: 40px;
