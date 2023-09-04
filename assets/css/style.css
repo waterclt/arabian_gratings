@@ -5031,7 +5031,7 @@ input::placeholder {
 }
 .header-navigation--header-default .header-navigation__nav nav > ul > li > a {
   padding: 25px 0;
-  color: #ffffff;
+  color: #faba20;
 }
 
 .social-links ul li {
@@ -6046,7 +6046,7 @@ input::placeholder {
 }
 
 .default-bg {
-  background-color: #faba20;
+  background-color: #ffffff;
 }
 
 .background-color--default-overlay {
