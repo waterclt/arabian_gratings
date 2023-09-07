@@ -4635,13 +4635,13 @@ input::placeholder {
   }
 }
 .header-area__desktop--default .mobile-navigation-icon i {
-  background-color: #222;
+  background-color: #faba20;
 }
 .header-area__desktop--default .mobile-navigation-icon i:before {
-  background-color: #222;
+  background-color: #faba20;
 }
 .header-area__desktop--default .mobile-navigation-icon i:after {
-  background-color: #222;
+  background-color: #faba20;
 }
 .header-area__desktop--default .header-info-single-item {
   margin-right: 60px;
@@ -5312,14 +5312,14 @@ input::placeholder {
   float: right;
 }
 .mobile-navigation-icon:hover i {
-  background-color: #222;
+  background-color: #faba20;
 }
 .mobile-navigation-icon:hover i:before {
   width: 80%;
-  background-color: #222;
+  background-color: #faba20;
 }
 .mobile-navigation-icon:hover i:after {
-  background-color: #222;
+  background-color: #faba20;
   width: 60%;
 }
 .mobile-navigation-icon i {
